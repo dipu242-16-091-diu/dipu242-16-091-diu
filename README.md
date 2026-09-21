@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:8b0000&height=220&section=header&text=Faisal&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Faisal banner"/>
+<img src="https://i.postimg.cc/bvQdVjsR/e3775cd1332f5d71255f61633b9ffd01.gif" width="100%" alt="Faisal banner"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&height=45&lines=CIS+Student+%40+Daffodil+International+University;Building+with+Python%2C+Java+%26+the+Web;Exploring+AI%2C+IoT+%26+Emerging+Tech" alt="Typing SVG"/>
 
