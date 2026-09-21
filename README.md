@@ -58,23 +58,14 @@ CIS student at Daffodil International University, passionate about AI, IoT, and 
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu242-16-091-diu&bg_color=0D0D0D&color=EAEAEA&title_color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&border_color=8B0000&hide_border=false" alt="GitHub Activity Graph" width="100%"/>
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipu242-16-091-diu&background=0D0D0D&border=8B0000&stroke=8B0000&ring=DC143C&fire=FF0000&currStreakNum=FFFFFF&sideNums=EAEAEA&currStreakLabel=FF6347&sideLabels=EAEAEA&dates=B22222" alt="GitHub Streak" />
 </div>
 
 <hr/>
 
-<h2>GitHub Trophies</h2>
+<h2>GitHub</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipu242-16-091-diu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<hr/>
-
-<h2>Profile Views</h2>
-
-<div align="center">
+  <img src="https://img.shields.io/github/followers/dipu242-16-091-diu?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B0000" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=dipu242-16-091-diu&label=Profile%20Views&color=8B0000&style=for-the-badge" alt="Profile views" />
 </div>
