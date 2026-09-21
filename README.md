@@ -4,10 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&height=45&lines=CIS+Student+%40+Daffodil+International+University;Building+with+Python%2C+Java+%26+the+Web;Exploring+AI%2C+IoT+%26+Emerging+Tech" alt="Typing SVG"/>
 
+<h1>Faisal</h1>
+<h3>Software Engineer</h3>
+
+<p><i>"Turning curiosity into code — one intelligent system at a time."</i></p>
+
 </div>
 
-<h1 align="center">Faisal</h1>
-<h3 align="center">Software Engineer</h3>
+<hr/>
 
 <h2>About Me</h2>
 
@@ -17,6 +21,8 @@ CIS student at Daffodil International University, passionate about AI, IoT, and 
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-B22222?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-B22222?style=for-the-badge" alt="Pronouns"/>
 </p>
+
+<hr/>
 
 <h2>Skills</h2>
 
@@ -42,36 +48,33 @@ CIS student at Daffodil International University, passionate about AI, IoT, and 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS3-B22222?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-B22222?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
+
+<hr/>
 
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipu242-16-091-diu&show_icons=true&title_color=FF0000&icon_color=DC143C&text_color=EAEAEA&bg_color=0D0D0D&border_color=8B0000&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu242-16-091-diu&bg_color=0D0D0D&color=EAEAEA&title_color=FF0000&line=FF0000&point=FFFFFF&area=true&area_color=8B0000&border_color=8B0000&hide_border=false" alt="GitHub Activity Graph" width="100%"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipu242-16-091-diu&background=0D0D0D&border=8B0000&stroke=8B0000&ring=DC143C&fire=FF0000&currStreakNum=FFFFFF&sideNums=EAEAEA&currStreakLabel=FF6347&sideLabels=EAEAEA&dates=B22222" alt="GitHub Streak" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu242-16-091-diu&theme=radical" alt="GitHub Activity" />
 </div>
 
-<h2>Contribution Snake</h2>
-
-<p>Animated snake that eats through the contribution graph — set up the included <code>snake.yml</code> workflow once and it renders automatically here.</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipu242-16-091-diu/dipu242-16-091-diu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipu242-16-091-diu/dipu242-16-091-diu/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/dipu242-16-091-diu/dipu242-16-091-diu/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<h2>Daily Dev Quote</h2>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+<hr/>
 
 <h2>GitHub Trophies</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dipu242-16-091-diu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipu242-16-091-diu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<hr/>
 
 <h2>Profile Views</h2>
 
-<img src="https://komarev.com/ghpvc/?username=dipu242-16-091-diu&label=Profile%20Views&color=8B0000&style=for-the-badge" alt="Profile views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipu242-16-091-diu&label=Profile%20Views&color=8B0000&style=for-the-badge" alt="Profile views" />
+</div>
